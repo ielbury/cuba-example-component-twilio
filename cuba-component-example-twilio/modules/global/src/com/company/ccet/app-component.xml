@@ -49,5 +49,7 @@
                   value="+com/company/ccet/web-permissions.xml"/>
         <property name="cuba.mainMessagePack"
                   value="+com.company.ccet.web"/>
+        <property name="cuba.restSpringContextConfig"
+                  value="+com/company/ccet/rest-dispatcher-spring.xml"/>
     </module>
 </app-component>
